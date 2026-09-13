@@ -1,0 +1,74 @@
+{
+  "O501": {
+    "customer_id": "C101",
+    "product_id": "P201",
+    "product": "Wireless Headphones",
+    "price": 4999,
+    "status": "delivered",
+    "days_since_delivery": 2,
+    "payment_status": "paid"
+  },
+  "O502": {
+    "customer_id": "C102",
+    "product_id": "P202",
+    "product": "Mechanical Keyboard",
+    "price": 3499,
+    "status": "delivered",
+    "days_since_delivery": 3,
+    "payment_status": "paid"
+  },
+  "O503": {
+    "customer_id": "C103",
+    "product_id": "P204",
+    "product": "Smart Watch",
+    "price": 5999,
+    "status": "shipped",
+    "days_since_delivery": 8,
+    "payment_status": "paid"
+  },
+  "O504": {
+    "customer_id": "C104",
+    "product_id": "P203",
+    "product": "Wireless Mouse",
+    "price": 1499,
+    "status": "delivered",
+    "days_since_delivery": 1,
+    "payment_status": "paid"
+  },
+  "O505": {
+    "customer_id": "C105",
+    "product_id": "P205",
+    "product": "USB-C Hub",
+    "price": 1999,
+    "status": "delivered",
+    "days_since_delivery": 4,
+    "payment_status": "paid"
+  },
+  "O506": {
+    "customer_id": "C106",
+    "product_id": "P206",
+    "product": "Bluetooth Speaker",
+    "price": 2999,
+    "status": "delivered",
+    "days_since_delivery": 2,
+    "payment_status": "paid"
+  },
+  "O507": {
+    "customer_id": "C107",
+    "product_id": "P207",
+    "product": "Webcam",
+    "price": 2499,
+    "status": "delivered",
+    "days_since_delivery": 5,
+    "payment_status": "paid"
+  },
+  "O508": {
+    "customer_id": "C108",
+    "product_id": "P208",
+    "product": "Laptop Stand",
+    "price": 1799,
+    "status": "delivered",
+    "days_since_delivery": 2,
+    "payment_status": "paid"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "T1b8b7c": {
+    "type": "store_credit",
+    "customer_id": "C101",
+    "amount": 4999,
+    "status": "completed"
+  },
+  "T2aa098": {
+    "type": "store_credit",
+    "customer_id": "C101",
+    "amount": 4999,
+    "status": "completed"
+  },
+  "Td0c316": {
+    "type": "store_credit",
+    "customer_id": "C101",
+    "amount": 4999,
+    "status": "completed"
+  },
+  "T0ed1b2": {
+    "type": "store_credit",
+    "customer_id": "C101",
+    "amount": 49.99,
+    "status": "completed"
+  },
+  "T2b1144": {
+    "type": "store_credit",
+    "customer_id": "C101",
+    "amount": 49.99,
+    "status": "completed"
+  },
+  "Teae45d": {
+    "type": "replacement",
+    "order_id": "O502",
+    "status": "completed"
+  },
+  "T1d3898": {
+    "type": "store_credit",
+    "customer_id": "C103",
+    "amount": 6,
+    "status": "completed"
+  },
+  "Tbc453a": {
+    "type": "replacement",
+    "order_id": "O503",
+    "status": "completed"
+  },
+  "T9f38a5": {
+    "type": "store_credit",
+    "customer_id": "C101",
+    "amount": 49.99,
+    "status": "completed"
+  },
+  "T7a1305": {
+    "type": "store_credit",
+    "customer_id": "C101",
+    "amount": 49.99,
+    "status": "completed"
+  },
+  "Td628e7": {
+    "type": "replacement",
+    "order_id": "O502",
+    "status": "completed"
+  },
+  "Te6ab26": {
+    "type": "store_credit",
+    "customer_id": "C103",
+    "amount": 10,
+    "status": "completed"
+  },
+  "Tc98c9b": {
+    "type": "store_credit",
+    "customer_id": "C101",
+    "amount": 49.99,
+    "status": "completed"
+  }
+}

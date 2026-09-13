@@ -1,0 +1,42 @@
+{
+  "C101": {
+    "name": "Alex",
+    "membership": "Premium"
+  },
+  "C102": {
+    "name": "Sam",
+    "membership": "Standard"
+  },
+  "C103": {
+    "name": "Jordan",
+    "membership": "Premium"
+  },
+  "C104": {
+    "name": "Riya",
+    "membership": "Standard"
+  },
+  "C105": {
+    "name": "Arjun",
+    "membership": "Premium"
+  },
+  "C106": {
+    "name": "Maya",
+    "membership": "Standard"
+  },
+  "C107": {
+    "name": "Daniel",
+    "membership": "Premium"
+  },
+  "C108": {
+    "name": "Neha",
+    "membership": "Standard"
+  },
+  "C109": {
+    "name": "Vikram",
+    "membership": "Premium"
+  },
+  "C110": {
+    "name": "Sara",
+    "membership": "Standard"
+  }
+}

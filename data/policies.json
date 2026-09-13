@@ -1,0 +1,38 @@
+{
+  "damaged": {
+    "replacement": true,
+    "refund": true,
+    "store_credit": true,
+    "return_window_days": 7
+  },
+  "wrong_item": {
+    "replacement": true,
+    "refund": true,
+    "store_credit": true,
+    "return_window_days": 7
+  },
+  "late_delivery": {
+    "replacement": true,
+    "refund": false,
+    "store_credit": true,
+    "return_window_days": 0
+  },
+  "missing_item": {
+    "replacement": true,
+    "refund": true,
+    "store_credit": true,
+    "return_window_days": 7
+  },
+  "refund_not_received": {
+    "replacement": false,
+    "refund": true,
+    "store_credit": true,
+    "return_window_days": 0
+  },
+  "return_request": {
+    "replacement": true,
+    "refund": true,
+    "store_credit": true,
+    "return_window_days": 7
+  }
+} 
